@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Associazione San Marino - Giappone
-image: /img/home-jumbotron.jpg
+image: /img/prima_torre.jpg
 heading: Associazione San Marino - Giappone
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
