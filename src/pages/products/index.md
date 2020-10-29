@@ -10,38 +10,37 @@ description: L'Associazione San Marino - Giappone collabora con altre
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        A partire dal 2013 con la collaborazione dell'Associazione Voci del
+        Montefeltro, la Giunta di Castello di Città, Cassa di Risparmio della
+        Repubblica di San Marino ed il Consolato del  Giappone presso la
+        Repubblica di San Marino, organizziamo il concerto Il Vento dal
+        Giappone: 
+
+        cantanti giapponesi interpretano canti tradizionali indossando lo yukata (kimono estivo).
     - image: /img/coffee-gear.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        In collaborazione con l'Ambasciata del Giappone in Italia e San Marino
+        abbiamo spesso il piacere di ospitare numerose iniziative culturali:
+        concerti con strumenti tipici, mostre d'arte, dimostrazioni di arti
+        tradizionali e degustazione di prodotti tipici.
     - image: /img/tutorials.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Cinema e televisione sono fra i mezzi di comunicazione che hanno
+        contribuito maggiormente a far scoprire la cultura giapponese nel nostro
+        paese. L'associazione organizza periodicamente proiezioni di film
+        giapponesi per poter approfondire aspetti della vita e della cultura,
+        senza disdegnare anche l'aspetto fantastico.
     - image: /img/meeting-space.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        "Giapponese in gioco" sono serate culturali per avvicinarsi alla lingua
+        ed alla cultura giapponese attraverso giochi ed altre attività
+        divertenti.
+  heading: Iniziative ed eventi culturali
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    L'Associazione San Marino - Giappone collabora con altre associazioni e
+    realtà per organizzare ogni anno iniziative ed eventi culturali per
+    avvicinare i concittadini sammarinesi alla cultura giapponese.
 main:
   heading: Great coffee with no compromises
   description: >
