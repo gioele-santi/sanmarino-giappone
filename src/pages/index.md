@@ -3,7 +3,7 @@ templateKey: index-page
 title: Associazione San Marino - Giappone
 image: /img/prima_torre.jpg
 heading: Associazione San Marino - Giappone
-subheading: Support sustainable farming while enjoying a cup
+subheading: サンマリノ・日本　友好協会
 mainpitch:
   title: Why Kaldi
   description: >
