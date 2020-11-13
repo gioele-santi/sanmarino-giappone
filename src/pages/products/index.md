@@ -9,7 +9,7 @@ description: L'Associazione San Marino - Giappone collabora con altre
   culturali.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/2014-08-19-il-vento-dal-giappone.jpg
       text: >-
         A partire dal 2013 con la collaborazione dell'Associazione Voci del
         Montefeltro, la Giunta di Castello di Città, Cassa di Risparmio della
