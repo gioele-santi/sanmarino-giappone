@@ -5,16 +5,15 @@ image: /img/prima_torre.jpg
 heading: Associazione San Marino - Giappone
 subheading: サンマリノ・日本　友好協会
 mainpitch:
-  title: Why Kaldi
+  title: Presentazione
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+    L’Associazione San Marino-Giappone è rivolta a beneficio di chiunque mostri
+    interesse per il Sol Levante,  per approfondirne i vari aspetti sociali,
+    culturali e sulle tradizioni.
+description: L’impegno dell’Associazione è organizzare iniziative di stampo
+  artistico, culturale o di attualità, a beneficio di chiunque mostri interesse
+  verso questo paese, in modo da comprenderne meglio la cultura percepita così
+  diversa dalla nostra.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -44,12 +43,16 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: A proposito dell'Associazione
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    L'Associazione fu fondata nel 1991 a seguito dell’invito ricevuto dai
+    Capitani Reggenti Cesare Antonio Gasperoni e Roberto Bucci per partecipare
+    alla cerimonia di incoronazione dell’Imperatore Akihito.
+
+    Gli stessi Cesare Antonio Gasperoni e Roberto Bucci furono soci fondatori dell’Associazione.
+
+
+    L’impegno dell’Associazione è organizzare iniziative di stampo artistico, culturale o di attualità, a beneficio di chiunque mostri interesse verso questo paese, in modo da comprenderne meglio la cultura percepita così diversa dalla nostra.
 main:
   heading: Great coffee with no compromises
   description: >
