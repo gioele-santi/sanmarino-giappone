@@ -18,7 +18,7 @@ intro:
         Giappone: 
 
         cantanti giapponesi interpretano canti tradizionali indossando lo yukata (kimono estivo).
-    - image: /img/coffee-gear.png
+    - image: /img/img-20201102-wa0014-ohara.jpg
       text: >
         In collaborazione con l'Ambasciata del Giappone in Italia e San Marino
         abbiamo spesso il piacere di ospitare numerose iniziative culturali:
