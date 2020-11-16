@@ -94,11 +94,23 @@ export const blogListQuery = graphql`
     ) {
       edges {
         node {
+          excerpt(pruneLength: 200)
+          id
           fields {
             slug
           }
           frontmatter {
             title
+            templateKey
+            date(formatString: "DD/MM/YYYY")
+            featuredpost
+            featuredimage {
+              childImageSharp {
+                fluid(maxWidth: 120, quality: 100) {
+                  ...GatsbyImageSharpFluid
+                }
+              }
+            }
           }
         }
       }
