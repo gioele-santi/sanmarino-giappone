@@ -31,6 +31,7 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges
 
+    //create a page foreach edge (not exacly posts as it consider every possible page)
     posts.forEach((edge) => {
       const id = edge.node.id
       createPage({
@@ -42,6 +43,30 @@ exports.createPages = ({ actions, graphql }) => {
         // additional data can be passed via context
         context: {
           id,
+        },
+      })
+    })
+
+    var blogPostCount = 0
+    posts.forEach((edge) => {
+      if (String(edge.node.frontmatter.templateKey) === `blog-post`) {
+        blogPostCount += 1
+      }
+    })
+    
+    const postsPerPage = 6
+    const numPages = Math.ceil(blogPostCount / postsPerPage)
+    
+    //create a collection for each blog page (I have to find and remove the creation of blog single page)
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? `/notizie` : `/notizie/${i + 1}`,
+        component: path.resolve("./src/templates/blog-list-template.js"), //make a new derivative template with paging
+        context: {
+          limit: postsPerPage,
+          skip: i * postsPerPage,
+          numPages,
+          currentPage: i +1,
         },
       })
     })
