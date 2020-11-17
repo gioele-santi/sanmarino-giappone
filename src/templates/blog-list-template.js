@@ -88,8 +88,8 @@ export default class BlogList extends React.Component {
                   }}
                 >
                   {!isFirst && (
-                    <Link to={prevPage} rel="prev">
-                      ← Previous Page
+                    <Link to={prevPage} rel="prev" className="btn">
+                      ← Precedenti
                     </Link>
                   )}
                   {Array.from({ length: numPages }, (_, i) => (
@@ -104,16 +104,17 @@ export default class BlogList extends React.Component {
                         style={{
                           textDecoration: 'none',
                           color: i + 1 === currentPage ? '#ffffff' : '',
-                          background: i + 1 === currentPage ? '#007acc' : '',
+                          background: i + 1 === currentPage ? '#348194' : '',
                         }}
+                        className="btn"
                       >
                         {i + 1}
                       </Link>
                     </li>
                   ))}
                   {!isLast && (
-                    <Link to={nextPage} rel="next">
-                      Next Page →
+                    <Link to={nextPage} rel="next" className="btn">
+                      Successive →
                     </Link>
                   )}
                 </ul>
