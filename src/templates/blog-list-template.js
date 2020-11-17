@@ -100,7 +100,7 @@ export default class BlogList extends React.Component {
                       }}
                     >
                       <Link
-                        to={`/${i === 0 ? '' : i + 1}`}
+                        to={`${endpoint}/${i === 0 ? '' : i + 1}`}
                         style={{
                           textDecoration: 'none',
                           color: i + 1 === currentPage ? '#ffffff' : '',
