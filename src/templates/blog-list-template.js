@@ -12,7 +12,7 @@ export default class BlogList extends React.Component {
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages
     const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
-    const nextPage = (currentPage + 1).toString()
+    const nextPage = endpoint + `/` + (currentPage + 1).toString()
     return (
       <Layout>
         <div
@@ -75,8 +75,6 @@ export default class BlogList extends React.Component {
                       </div>
                     ))}
                 </div>
-                {/* replace with /blog when done */}
-
                 <ul
                   style={{
                     display: 'flex',
@@ -118,15 +116,6 @@ export default class BlogList extends React.Component {
                     </Link>
                   )}
                 </ul>
-
-                {/* <div className="column is-12 has-text-centered">
-                  <Link className="btn" to="/notizie/2"> 
-                    Recenti
-                  </Link>
-                  <Link className="btn" to="/notizie/2"> 
-                    Precedenti
-                  </Link>
-                </div> */}
             </div>
           </div>
         </section>
