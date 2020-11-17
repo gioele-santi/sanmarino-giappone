@@ -7,12 +7,14 @@ import Layout from "../components/layout"
 export default class BlogList extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
+    const endpoint = "/notizie"
+    const { currentPage, numPages } = this.props.pageContext
+    const isFirst = currentPage === 1
+    const isLast = currentPage === numPages
+    const prevPage = currentPage - 1 === 1 ? '/' : (currentPage - 1).toString()
+    const nextPage = (currentPage + 1).toString()
     return (
       <Layout>
-        {/* {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return <div key={node.fields.slug}>{title}</div>
-        })} */}
         <div
           className="full-width-image-container margin-top-0"
           style={{
@@ -74,14 +76,56 @@ export default class BlogList extends React.Component {
                     ))}
                 </div>
                 {/* replace with /blog when done */}
-                <div className="column is-12 has-text-centered">
+
+                <ul
+                  style={{
+                    display: 'flex',
+                    flexWrap: 'wrap',
+                    justifyContent: 'space-between',
+                    alignItems: 'center',
+                    listStyle: 'none',
+                    padding: 0,
+                  }}
+                >
+                  {!isFirst && (
+                    <Link to={prevPage} rel="prev">
+                      ← Previous Page
+                    </Link>
+                  )}
+                  {Array.from({ length: numPages }, (_, i) => (
+                    <li
+                      key={`pagination-number${i + 1}`}
+                      style={{
+                        margin: 0,
+                      }}
+                    >
+                      <Link
+                        to={`/${i === 0 ? '' : i + 1}`}
+                        style={{
+                          textDecoration: 'none',
+                          color: i + 1 === currentPage ? '#ffffff' : '',
+                          background: i + 1 === currentPage ? '#007acc' : '',
+                        }}
+                      >
+                        {i + 1}
+                      </Link>
+                    </li>
+                  ))}
+                  {!isLast && (
+                    <Link to={nextPage} rel="next">
+                      Next Page →
+                    </Link>
+                  )}
+                </ul>
+
+                {/* <div className="column is-12 has-text-centered">
                   <Link className="btn" to="/notizie/2"> 
                     Recenti
                   </Link>
                   <Link className="btn" to="/notizie/2"> 
                     Precedenti
                   </Link>
-                </div>
+                </div> */}
             </div>
           </div>
         </section>
