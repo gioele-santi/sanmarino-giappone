@@ -7,7 +7,7 @@ import Layout from "../components/Layout"
 export default class BlogList extends React.Component {
   render() {
     const posts = this.props.data.allMarkdownRemark.edges
-    const endpoint = "/notizie"
+    const endpoint = "/blog"
     const { currentPage, numPages } = this.props.pageContext
     const isFirst = currentPage === 1
     const isLast = currentPage === numPages

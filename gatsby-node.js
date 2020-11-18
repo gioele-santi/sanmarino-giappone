@@ -60,7 +60,7 @@ exports.createPages = ({ actions, graphql }) => {
     //create a collection for each blog page (I have to find and remove the creation of blog single page)
     Array.from({ length: numPages }).forEach((_, i) => {
       createPage({
-        path: i === 0 ? `/notizie` : `/notizie/${i + 1}`,
+        path: i === 0 ? `/blog` : `/blog/${i + 1}`,
         component: path.resolve("./src/templates/blog-list-template.js"), //make a new derivative template with paging
         context: {
           limit: postsPerPage,
