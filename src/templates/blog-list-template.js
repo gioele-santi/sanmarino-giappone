@@ -29,7 +29,7 @@ export default class BlogList extends React.Component {
         </div>
         <section className="section">
           <div className="container">
-            <div className="content">
+            <div className="content column is-10 is-offset-1">
               <div className="columns is-multiline">
                   {posts &&
                     posts.map(({ node: post }) => (
