@@ -16,7 +16,7 @@ export default class BlogList extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image-container margin-top-0"
+          className="full-width-image-container margin-top-0 header-image"
           style={{
             backgroundImage: `url('/img/pexels-356269.jpg')`,
           }}
