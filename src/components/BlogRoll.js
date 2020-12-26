@@ -11,12 +11,12 @@ class BlogRoll extends React.Component {
     return (
       <div className="columns is-multiline mobile-larger">
         {posts &&
-          posts.map(({ node: post }) => (
+          posts.map(({ node: post }, index) => (
             <div className="is-parent column is-6" key={post.id}>
               <article
-                className={`blog-list-item tile is-child box notification ${
-                  post.frontmatter.featuredpost ? 'is-featured' : ''
-                }`}
+                className={`blog-list-item tile is-child box notification 
+                ${(index % 2 == 0) ? 'even-blog-post' : 'odd-blog-post'} 
+                ${ (index == 0) || (index == 3) || (index == 4) ? 'accent-blog-post' : '' }`}
               >
                 <header>
                   {post.frontmatter.featuredimage ? (
