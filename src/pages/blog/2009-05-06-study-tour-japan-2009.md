@@ -6,7 +6,7 @@ featuredpost: false
 
 tags:
   - notizie
-  -studio
+  - studio
 ---
 
 
