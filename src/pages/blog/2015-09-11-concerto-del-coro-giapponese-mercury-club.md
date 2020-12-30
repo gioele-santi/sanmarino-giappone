@@ -6,13 +6,15 @@ featuredpost: false
 featuredimage: /img/2015-09-11-concerto-del-coro-giapponese-mercury-club.jpg
 tags:
   - eventi
+  - musica
 ---
 
 
 ![](/img/2015-09-11-concerto-del-coro-giapponese-mercury-club.jpg)
+
 Domenica 20 Settembre alle ore 17:00, presso il Centro Commerciale Atlante (Dogana) 
 
- si svolgerà un concerto organizzato dal coro Mercury Glee Club con la partecipazione dell'Associazione Corale "Malatesta da Verucchio". 
+ si svolgerà un concerto organizzato dal coro **Mercury Glee Club** con la partecipazione dell'**Associazione Corale "Malatesta da Verucchio"**. 
 
  Il coro maschile "Mercury Club" nasce nel 1999 a Tokyo. Il suo repertorio non si limita alla musica sacra occidentale e la produzione corale classica, ma spazia dai canti per la preghiera e la sagra antica giapponese alla produzione contemporanea. 
 

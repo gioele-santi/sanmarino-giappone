@@ -5,7 +5,7 @@ date: 2008-11-02T12:00:00.000Z
 featuredpost: false
 
 tags:
-  - eventi
+  - notizie
 ---
 
 

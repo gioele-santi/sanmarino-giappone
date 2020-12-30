@@ -6,6 +6,7 @@ featuredpost: false
 
 tags:
   - eventi
+  - bonsai
 ---
 
 
@@ -16,18 +17,16 @@ Pubbliciziamo questo evento promosso dall'Associazione Bonsai San Marino e dall 
   - Sabato 18 Ottobre 2014  - ore 8:00 - 10:00 consegna esemplari ed allestimento mostre 
   - ore 10:00 apertura mostre 
   - ore 11:00 inaugurazione 
-  -  - ore 13:00 - 14:00 pausa pranzo 
+  - ore 13:00 - 14:00 pausa pranzo 
  
   - ore 15:00 - 18:00 talento CERMS 2014 
   - ore 19:00 chiusura 
  
  Domenica 19 Ottobre 2014  - ore 8:00 apertura mostre 
   - ore 11:00 incontro club aderenti CERMS 
-  -  - ore 13:00 - 14:00 pausa pranzo 
+  - ore 13:00 - 14:00 pausa pranzo 
  
   - ore 16:30 premiazioni 
   - ore 18:00 chiusura e ritiro esemplari 
    
-
-  - 
  - [http://www.bonsaism.org](http://www.bonsaism.org) 

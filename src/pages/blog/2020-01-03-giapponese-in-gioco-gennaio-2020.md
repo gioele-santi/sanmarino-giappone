@@ -10,11 +10,12 @@ tags:
 
 
 ![](/img/2019-12-03-giapponese-in-gioco-gennaio-2020.jpg)
+
 Serate culturali per avvicinarsi al giapponese giocando. 
 
- Lunedì 27 Gennaio 2020, ore 20:30  
+ **Lunedì 27 Gennaio 2020, ore 20:30**
 
- presso Casa Terenzi 
+ presso **Casa Terenzi**
 
  via G. Carducci, 11 Domagnano 
 
@@ -22,11 +23,7 @@ Serate culturali per avvicinarsi al giapponese giocando.
 
  Per informazioni: 
 
- Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo. 
-
- 
-
- Questo indirizzo email è protetto dagli spambots. È necessario abilitare JavaScript per vederlo. 
+ potete usare il modulo contatti del sito.
 
  
 

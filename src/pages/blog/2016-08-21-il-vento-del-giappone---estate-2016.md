@@ -6,6 +6,7 @@ featuredpost: false
 featuredimage: /img/2016-08-21-il-vento-del-giappone---estate-2016.jpg
 tags:
   - eventi
+  - musica
 ---
 
 
@@ -16,7 +17,7 @@ tags:
 
  organizza il concerto: 
 
- *"Il Vento dal Giappone"*  
+ ### "Il Vento dal Giappone"  
 
  canti giapponesi nel tradizionale kimono estivo (Yukata) 
 

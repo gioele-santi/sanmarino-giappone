@@ -7,13 +7,13 @@ featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
   - eventi
-  - tè
+  - te
   - kimono
 ---
 
-Domenica 6 Aprile, alle ore 15.00, presso la sala ex-international di Borgo Maggiore, 
+**Domenica 6 Aprile, alle ore 15.00**, presso la sala ex-international di Borgo Maggiore, 
 
-grazie all'Associazione Ming Dao, con la quale intercorrono ottimi rapporti, 
+grazie all'**Associazione Ming Dao**, con la quale intercorrono ottimi rapporti, 
 
 chiunque sia interessato potrà prendere parte e osservare sia la cerimonia del tè giapponese che la vestizione del kimono ad opera di maestre giapponesi provenienti direttamente dal Sol Levante. 
 

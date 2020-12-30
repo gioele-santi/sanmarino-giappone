@@ -13,7 +13,27 @@ tags:
   - danza
   - taiko
 ---
-Nel **XX anniversario dell’istituzione del Consolato Generale Onorario del Giappone a San Marino, l’Ambasciata del Giappone e la Segreteria di Stato per gli Affari Esteri**  promuovono un evento di percussioni e danza, eccezionale nel suo genere. **Martedì 28 maggio** , alle ore **20.30** , presso il **teatro Titano di San Marino**  l’artista **Leonard Eto** , virtuoso del taiko (tamburo giapponese), presenterà il suo ultimo spettacolo, **“**DEEP FOREST** ”** : una performance straordinariamente originale e coinvolgente, che fonde la musica come tripudio di energia vitale e varietà ritmica in un’unica suggestiva immagine con le danze che, costruite sui ritmi delle percussioni, spaziano dal repertorio classico all’etnico. Lo spettacolo lancia idealmente un messaggio in grado di travalicare il confine tra i popoli in un’epoca dominata dalle incertezze. Il Maestro Eto è un artista di fama internazionale; ha al suo attivo tournée in più di 50 Paesi e collaborazioni illustri in tutto il mondo. L’evento, organizzato **in collaborazione con l’Associazione San Marino-Giappone e gli Istituti Culturali** , vuole celebrare le ottime relazioni di amicizia che intercorrono tra il Giappone e la Repubblica di San Marino e rendere omaggio al **Console Generale Onorario Leo Achilli** , che ricopre l’incarico dal 1999. Ancor prima della sua nomina, il Console Achilli, in qualità di Presidente dell’Associazione San Marino-Giappone, si era prodigato per creare preziose opportunità di presentazione della cultura giapponese ai cittadini sanmarinesi, contribuendo parallelamente alla diffusione delle arti marziali del Sol Levante. L’ingresso alla serata è libero fino ad esaurimento posti. **DEEP FOREST**  Progetto, regia e musica: **Leonard Eto**  Interpreti: **Leonard Eto**  (taiko), Iori Tadokoro, Niina Maeda, Ayano Mizutani (danza)   
+Nel **XX anniversario dell’istituzione del Consolato Generale Onorario del Giappone a San Marino, l’Ambasciata del Giappone e la Segreteria di Stato per gli Affari Esteri**  promuovono un evento di percussioni e danza, eccezionale nel suo genere. 
+
+**Martedì 28 maggio** , alle ore **20.30** , presso il **teatro Titano di San Marino**  l’artista **Leonard Eto** , virtuoso del taiko (tamburo giapponese), presenterà il suo ultimo spettacolo, **“DEEP FOREST”**:
+
+una performance straordinariamente originale e coinvolgente, che fonde la musica come tripudio di energia vitale e varietà ritmica in un’unica suggestiva immagine con le danze che, costruite sui ritmi delle percussioni, spaziano dal repertorio classico all’etnico. Lo spettacolo lancia idealmente un messaggio in grado di travalicare il confine tra i popoli in un’epoca dominata dalle incertezze. 
+
+Il Maestro Eto è un artista di fama internazionale; ha al suo attivo tournée in più di 50 Paesi e collaborazioni illustri in tutto il mondo. 
+
+L’evento, organizzato **in collaborazione con l’Associazione San Marino-Giappone e gli Istituti Culturali** , vuole celebrare le ottime relazioni di amicizia che intercorrono tra il Giappone e la Repubblica di San Marino e rendere omaggio al **Console Generale Onorario Leo Achilli** , che ricopre l’incarico dal 1999. 
+
+Ancor prima della sua nomina, il Console Achilli, in qualità di Presidente dell’Associazione San Marino-Giappone, si era prodigato per creare preziose opportunità di presentazione della cultura giapponese ai cittadini sanmarinesi, contribuendo parallelamente alla diffusione delle arti marziali del Sol Levante. 
+
+L’ingresso alla serata è libero fino ad esaurimento posti. 
+
+<br/><hr/>
+
+### DEEP FOREST 
+
+Progetto, regia e musica: **Leonard Eto**  
+
+Interpreti: **Leonard Eto**  (taiko), Iori Tadokoro, Niina Maeda, Ayano Mizutani (danza)   
 
  
 

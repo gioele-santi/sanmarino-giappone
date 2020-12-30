@@ -6,6 +6,8 @@ featuredpost: false
 
 tags:
   - eventi
+  - arte
+  - origami
 ---
 
 
@@ -13,7 +15,5 @@ Domenica 17 ottobre dalle ore 10.00 alle ore 18.00, al ridotto del Teatro Titano
 
  Il tutto accompagnato dai ragazzi del club del Go, che vi mostreranno praticamente questo antichissimo gioco giapponese. 
 
- La mostra si svolge in collaborazione con l'
- - [Ottobre Giapponese](http://www.ascig.it/ottobregiapponese/ottobregiapponese2008.html) di Ravenna e Faenza organizzato dall'associazione 
- - [ASCIG](http://www.ascig.it). 
+ La mostra si svolge in collaborazione con l'[Ottobre Giapponese](http://www.ascig.it/ottobregiapponese/ottobregiapponese2008.html) di Ravenna e Faenza organizzato dall'associazione [ASCIG](http://www.ascig.it). 
 

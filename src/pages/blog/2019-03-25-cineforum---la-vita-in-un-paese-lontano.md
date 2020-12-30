@@ -17,19 +17,37 @@ L'Associazione San Marino - Giappone vi invita a partecipare numerosi al Cinefor
 
  Di seguito le date e gli orari per ciascun film. 
 
- *Giovedì 4 Aprile 2019 ore 21:00*  **I Sospiri del Mio Cuore**  di Yoshifumi Kondo (1995) - Animazione, durata 107’ 
+### I Sospiri del Mio Cuore
+*di Yoshifumi Kondo (1995) - Animazione, durata 107’*
 
- Shizuku è una studentessa delle scuole medie, una serie di coincidenze la portano a scoprire il primo amore ma anche i suoi talenti, mettersi alla prova e decidere il suo percorso di vita. 
+**Giovedì 4 Aprile 2019 ore 21:00**
 
- *Giovedì 11 Aprile 2019 ore 21:00*  **Father and Son**  di Hirokazu Kore’eda (2013) - Drammatico, durata 120’ 
+Shizuku è una studentessa delle scuole medie, una serie di coincidenze la portano a scoprire il primo amore ma anche i suoi talenti, mettersi alla prova e decidere il suo percorso di vita. 
 
- Ryota è un uomo d’affari di successo, ma suo figlio Keita non rispecchia tutte le sue aspettative. Un giorno la sua vita e quella della moglie Midori è sconvolta da una chiamata dall’ospedale. 
+<hr/><br/>
 
- *Giovedì 25 Aprile 2019 ore 21:00*  **Departures**  di Yojiro Takita (2008) - Drammatico, durata 130’ 
+### Father and Son
+*di Hirokazu Kore’eda (2013) - Drammatico, durata 120’*
 
- Daigo, un musicista ormai disoccupato, decide di lasciare Tokyo e di tornare al suo paese natale. Qui un annuncio di lavoro molto interessante sarà un’occasione per ricominciare la sua vita. 
+**Giovedì 11 Aprile 2019 ore 21:00**
 
- *Giovedì 2 Maggio 2019 ore 21:00*  **Le Ricette della Signora Toku**  di Naomi Kawase (2015) - Drammatico, durata 118’ 
+Ryota è un uomo d’affari di successo, ma suo figlio Keita non rispecchia tutte le sue aspettative. Un giorno la sua vita e quella della moglie Midori è sconvolta da una chiamata dall’ospedale. 
 
- Sentaro gestisce un negozio di dolci tipici e odia il suo lavoro. Un giorno la signora Toku si offre come aiutante. La vecchina non solo lo aiuterà a risollevare gli affari del negozio ma anche ad affrontare la vita con ritrovato entusiasmo. 
+<hr/><br/>
+
+### Departures
+*di Yojiro Takita (2008) - Drammatico, durata 130’*
+
+**Giovedì 25 Aprile 2019 ore 21:00**
+
+Daigo, un musicista ormai disoccupato, decide di lasciare Tokyo e di tornare al suo paese natale. Qui un annuncio di lavoro molto interessante sarà un’occasione per ricominciare la sua vita. 
+
+<hr/><br/>
+
+### Le Ricette della Signora Toku
+*di Naomi Kawase (2015) - Drammatico, durata 118’*
+
+**Giovedì 2 Maggio 2019 ore 21:00**
+
+Sentaro gestisce un negozio di dolci tipici e odia il suo lavoro. Un giorno la signora Toku si offre come aiutante. La vecchina non solo lo aiuterà a risollevare gli affari del negozio ma anche ad affrontare la vita con ritrovato entusiasmo. 
 

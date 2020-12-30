@@ -15,7 +15,7 @@ tags:
 
  organizza il concerto: 
 
- *"Il Vento dal Giappone"*  
+ #### "Il Vento dal Giappone"  
 
  la cultura Giapponese attraverso i loro canti 
 

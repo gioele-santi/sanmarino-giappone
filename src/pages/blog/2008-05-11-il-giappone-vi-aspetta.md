@@ -9,9 +9,10 @@ featuredpost: false
 featuredimage: /img/apple-touch-icon.png
 tags:
   - notizie
+  - studio
 ---
 
- ######  - Study Tour Japan 
+ ###  - Study Tour Japan 
 
  Un occasione eccezionale per chi vuole un’infarinatura giapponese visitando il Sol Levante per 10 giorni, totalmente spesato dallo stato ospite, e confrontandosi con realtà culturali diverse rappresentate dai vostri compagni di viaggio provenienti da tutta Europa. 
 

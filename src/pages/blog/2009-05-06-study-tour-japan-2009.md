@@ -5,7 +5,8 @@ date: 2009-05-06T12:00:00.000Z
 featuredpost: false
 
 tags:
-  - eventi
+  - notizie
+  -studio
 ---
 
 

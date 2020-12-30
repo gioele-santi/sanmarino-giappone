@@ -13,7 +13,7 @@ tags:
 
  organizza il concerto: 
 
- *"Il Vento dal Giappone"*  
+ ### "Il Vento dal Giappone" 
 
  canti giapponesi nel tradizionale kimono estivo (Yukata) 
 

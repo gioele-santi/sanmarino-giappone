@@ -5,17 +5,21 @@ date: 2018-03-21T12:00:00.000Z
 featuredpost: false
 
 tags:
-  - eventi
+  - notizie
 ---
 
 
 Carissimi Amici Carissime Amiche, 
 
- è convocata l'Assemblea Ordinaria dell'Associazione San Marino - Giappone per il giorno Mercoledì 21 Marzo 2018 alle ore 18,30 presso la Sede della Consulta delle Associazioni – Via Cà dei Lunghi, 132 – Cailungo con il seguente ordine del giorno: 
+ è convocata l'Assemblea Ordinaria dell'Associazione San Marino - Giappone per il giorno **Mercoledì 21 Marzo 2018 alle ore 18,30** presso la Sede della **Consulta delle Associazioni** – Via Cà dei Lunghi, 132 – Cailungo con il seguente ordine del giorno: 
 
    
 
- 1) Relazione del Presidente 2) Approvazione Bilancio Consuntivo 2017 3) Programmazione attività 5) Tesseramento 6) Varie ed eventuali 
+ 1. Relazione del Presidente 
+ 2. Approvazione Bilancio Consuntivo 2017 
+ 3. Programmazione attività 
+ 4. Tesseramento 
+ 5. Varie ed eventuali 
 
  Al termine dell'Assemblea ci sarà un momento conviviale a base di The verde, vino e biscotti. 
 

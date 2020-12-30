@@ -6,6 +6,7 @@ featuredpost: false
 
 tags:
   - eventi
+  - arte
 ---
 
 

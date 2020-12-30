@@ -17,7 +17,7 @@ Una favolosa opportunità per conoscere il Giappone attraverso le sue fiabe popo
 
  Docente: **Marika Leonetti**  – *studiosa*  
 
-###### La cultura giapponese si svela attraverso le sue fiabe
+#### La cultura giapponese si svela attraverso le sue fiabe
 
 * Cosa si nasconde dietro il *tòpos*  della nascita miracolosa: *Momotarō*, *Taketori monogatari*, *Urihime*, *Junichirō*
 * L’universo fantastico: incontro con la *Yamamba*  e il *Kappa* 
@@ -28,10 +28,12 @@ Una favolosa opportunità per conoscere il Giappone attraverso le sue fiabe popo
 
 **Sabato 23 febbraio; 1, 8, 15, 29 marzo; 5, 12, 19 aprile 2008 – ore 15**
 
- **Sede:**  Scuola Elementare “L. Ferrari”, via Gambalunga, 106 - Rimini 
+ Sede:  **Scuola Elementare “L. Ferrari”, via Gambalunga, 106 - Rimini**
 
  Contributo al corso - € 60,00 + quota associativa - € 15,00 
 
 **N.B. Il corso è particolarmente consigliato a genitori, nonni e insegnanti**
 
- Per informazioni e iscrizioni (martedì, mercoledì, sabato ore 9,30-12,00; lunedì, giovedì, venerdì ore 16-19):**Università Aperta “Giulietta Masina e Federico Fellini” – via Gambalunga, 74 – Rimini – Tel. 0541-28568**
+ Per informazioni e iscrizioni (martedì, mercoledì, sabato ore 9,30-12,00; lunedì, giovedì, venerdì ore 16-19):
+ 
+ Università Aperta “Giulietta Masina e Federico Fellini” – via Gambalunga, 74 – Rimini – **Tel. 0541-28568**

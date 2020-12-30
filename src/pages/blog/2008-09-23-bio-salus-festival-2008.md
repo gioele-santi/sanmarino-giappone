@@ -9,6 +9,7 @@ featuredpost: false
 featuredimage: /img/biosalus_festival_2008.jpg
 tags:
   - eventi
+  - cultura
 ---
 Come ricorderete (se non lo ricordate c'è l'archivio notizie del sito!!) mentre l'anno scorso è stato il Giappone, coordinato dalla nostra associazione, il paese ospite; quest'anno sarà il Tibet con mandala, mantra ed esposizione di thangka con monaci tibetani. Il programma come sempre è ricchissimo con l'esposizione di prodotti biologici, l'artigianato artistico, i convegni e le conferenze su bioarchitettura, cosmesi naturale e benessere, la BioEcoCasa, etc. 
 

@@ -10,62 +10,65 @@ tags:
 
 
 ![](/img/2016-08-25-poesie-dell'antica-nobiltà-giapponese.jpg)
-Dopo averci allietato Mercoledì sera con il concerto **I** l Vento del Giappone, gli amici dell'Associazione Voci nel Montefeltro assieme a The Summer Program in **I** taly- Giappone organizzano il concerto in prima assoluta 
 
-  - *POES**I** E DELL'ANT**I** CA NOB**I** LTÀ G**I** APPONESE*  
- di Tomoki Jiromaru Per mezzosoprano e pianoforte  
+Dopo averci allietato Mercoledì sera con il concerto Il Vento del Giappone, gli amici dell'Associazione Voci nel Montefeltro assieme a The Summer Program in Italy- Giappone organizzano il concerto in prima assoluta 
 
- 
+<br/><br/><hr/> 
 
- Mezzosoprano: M**I** KA SH**I** GEMATSU  
+### POESIE DELL'ANTICA NOBILTÀ GIAPPONESE
+*di Tomoki Jiromaru Per mezzosoprano e pianoforte*  
 
- 
+* Mezzosoprano: MIKA SHIGEMATSU  
 
- Pianoforte: TOMOK**I**  J**I** ROMARU  
+* Pianoforte: TOMOKI  JIROMARU  
 
- 
+Sabato 27 agosto 2016,   
 
- 
 
- Sabato 27 agosto 2016,   
-
- 
 
 ore 21.00 - 22.00  
 
- 
+presso la **Sala del Podere Lesignano**, Via dei Dativi 75,   
 
- 
 
- presso la Sala del Podere Lesignano, Via dei Dativi 75,   
 
- 
+Serravalle (RSM) 
 
-**Serravalle (RSM)**  
+**Ingresso gratuito**  
 
- ****I** ngresso gratuito**  
+Il concerto sarà preceduto alle ore 21:00 da una cerimonia shintoista presso il Tempio Jinja attiguo 
 
- **I** l concerto sarà preceduto alle ore 21:00 da una cerimonia shintoista presso il Tempio Jinja attiguo 
+<br/><br/><hr/>
 
-   
+Ricordiamo inoltre per chi fosse interessato che **Lunedì 29 Agosto alle ore 21.00**,   
 
- 
+presso il **Teatro Sociale di Novafeltria** si svolgerà il 
 
- Ricordiamo inoltre per chi fosse interessato che Lunedì 29 Agosto alle ore 21.00,   
+### Gran Finale di THE SUMMER PROGRAM IN ITALY – GIAPPONE 
 
- 
+in cui gli artisti giapponesi presenteranno scene ed arie d'Opera. 
 
-presso il Teatro Sociale di Novafeltria si svolgerà il Gran Finale di  
+L'ingresso è gratuito. 
 
- 
+<br/><br/><hr/>
 
-THE SUMMER PROGRAM **I** N **I** TALY – G**I** APPONE in cui gli artisti giapponesi presenteranno scene ed arie d'Opera. L'ingresso è gratuito. 
+#### THE SUMMER PROGRAM IN ITALY – GIAPPONE 
+*direzione artistica Mika Shigematsu*
 
- THE SUMMER PROGRAM **I** N **I** TALY – G**I** APPONE direzione artistica Mika Shigematsu SOPRAN**I**  Yoko Kusunaga, Noriko Morimoto, Ryoko Takei, Ayaka Katagi, Hiraku Tanaka TENORE Etsuo Doi MEZZOSOPRAN**I**  Yui Shimokura, Eri Tanaka P**I** AN**I** ST**I**  Miki Goto, Tomoki Jiromaru, Fumiyasu Kawase D**I** REZ**I** ONE MUS**I** CALE Mika Shigematsu PRESENTATORE Ubaldo Fabbri TECN**I** CA VOCALE E ARTE SCEN**I** CA Mika Shigematsu COACH**I** NG E FONET**I** CA **I** TAL**I** ANA Ubaldo Fabbri L**I** NGUA **I** TAL**I** ANA **I** laria Ciccioni 
+*SOPRANI  Yoko Kusunaga, Noriko Morimoto, Ryoko Takei, Ayaka Katagi, Hiraku Tanaka* 
 
-   
+*TENORE Etsuo Doi*
 
- 
+*MEZZOSOPRANI  Yui Shimokura, Eri Tanaka* 
 
-  - *POES**I** E DELL'ANT**I** CA NOB**I** LTÀ G**I** APPONESE*  
-  - GRAN F**I** NALE del TSP - THE SUMMER PROGRAM **I** N **I** TALY-G**I** APPONE 
+*PIANISTI  Miki Goto, Tomoki Jiromaru, Fumiyasu Kawase* 
+
+*DIREZIONE MUSICALE Mika Shigematsu* 
+
+*PRESENTATORE Ubaldo Fabbri* 
+
+*TECNICA VOCALE E ARTE SCENICA Mika Shigematsu* 
+
+*COACHING E FONETICA ITALIANA Ubaldo Fabbri*
+
+*LINGUA ITALIANA Ilaria Ciccioni* 
