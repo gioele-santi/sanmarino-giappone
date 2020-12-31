@@ -3,7 +3,7 @@ templateKey: 'blog-post'
 title: Ottobre Giapponese
 date: 2008-10-05T12:00:00.000Z
 featuredpost: false
-
+featuredimage: /img/2008_ottobre_giapponese.jpg
 tags:
   - eventi
   - arte
@@ -11,6 +11,7 @@ tags:
   - animazione
 ---
 
+![](/img/2008_ottobre_giapponese.jpg)
 
 Ottobre ci porta tantissime occasioni per avvicinarsi al Giappone!!! 
 
@@ -18,4 +19,5 @@ Grazie agli amici di Ravenna anche quest'anno avremo iniziative di grande qualit
 
  Al sito sottostante tutto il programma dell'**Ottobre Giapponese**
 
-http://www.ascig.it/ottobregiapponese/ottobregiapponese2008/programmaottgiapp2008.html
+~~http://www.ascig.it/ottobregiapponese/ottobregiapponese2008/programmaottgiapp2008.html~~
+https://www.ottobregiapponese.it

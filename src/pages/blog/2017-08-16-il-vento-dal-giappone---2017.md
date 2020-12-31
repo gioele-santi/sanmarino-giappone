@@ -3,11 +3,13 @@ templateKey: 'blog-post'
 title: Il Vento dal Giappone - 2017
 date: 2017-08-16T12:00:00.000Z
 featuredpost: false
-
+featuredimage: /img/vento_giappone_2017.png
 tags:
   - eventi
+  - musica
 ---
 
+![](/img/vento_giappone_2017.png)
 
 **Domenica 20 Agosto 2017 alle ore 18:00, presso la Galleria Cassa di Risparmio** , Piazzetta del Titano, 2 la Giunta di Castello della Città di San Marino, in collaborazione con l'Associazione San Marino-Giappone, l'Accademia Lirica Voci nel Montefeltro e Summer Program TSP in Italy - Giappone 
 

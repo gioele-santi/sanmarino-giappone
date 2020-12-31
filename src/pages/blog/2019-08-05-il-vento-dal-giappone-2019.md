@@ -3,11 +3,13 @@ templateKey: 'blog-post'
 title: Il Vento dal Giappone 2019
 date: 2019-08-05T12:00:00.000Z
 featuredpost: true
-
+featuredimage: /img/vento_giappone_2017.png
 tags:
   - eventi
+  - musica
 ---
 
+![](/img/vento_giappone_2017.png)
 
 **Venerdì 16 Agosto 2019 alle ore 18:30, presso la Galleria Cassa di Risparmio** , Piazzetta del Titano, 2 
 

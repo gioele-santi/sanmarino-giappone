@@ -12,6 +12,9 @@ tags:
   - ikebana
   - arti marziali
 ---
+
+![](/img/biosalus_festival_2007.jpg)
+
 Alla prima edizione di questo imponente festival dedicato al biologico e alle discipline naturali, partecipa anche l’Associazione San Marino Giappone in qualità di organizzatrice dello spazio denominato “Giappone Paese Ospite”. 
 
  All’interno di questa location, facilmente individuabile al secondo piano del Collegio Raffaello, troverete delle esposizioni permanenti di stoffe di kimono dipinte a mano, bonsai, ikebana, origami e kakejiku. Si svolgeranno inoltre dimostrazioni di arti marziali tra le quali judo, kendo e iaido, nonché stage e workshop. 

@@ -12,6 +12,9 @@ tags:
   - arte
   - kimono
 ---
+
+![](/img/yuzen-wikimedia_commons.jpg)
+
 Una straordinaria occasione per vedere e provare in prima persona lo yuzen, un’arte, una tecnica centenaria tipica della città di Kyoto grazie alla quale vengono letteralmente dipinte le stoffe destinate, usualmente, alla produzione dei kimono. 
 
  In ogni caso se la cosa vi appassiona, nulla vi impedisce di usarla per personalizzare il vostro abbigliamento!! 
