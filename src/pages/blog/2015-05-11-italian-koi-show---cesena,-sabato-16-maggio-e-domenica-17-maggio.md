@@ -24,3 +24,4 @@ Per informazioni più dettagliate su costi e tempi potete consultare il programm
 
 - [Italian Koi Show](http://www.italiankoishow.it/) 
 - [Decoarte di Kiyoko](http://www.decoarte.eu/) 
+- [Scarica il programma](/pdf/Programma-IKS-2015.pdf)

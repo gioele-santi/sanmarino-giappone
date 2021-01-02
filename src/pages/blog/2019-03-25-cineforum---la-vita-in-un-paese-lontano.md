@@ -54,6 +54,4 @@ Daigo, un musicista ormai disoccupato, decide di lasciare Tokyo e di tornare al 
 
 Sentaro gestisce un negozio di dolci tipici e odia il suo lavoro. Un giorno la signora Toku si offre come aiutante. La vecchina non solo lo aiuterà a risollevare gli affari del negozio ma anche ad affrontare la vita con ritrovato entusiasmo. 
 
-<br/><br/>
-
-![](/img/img_cineforum_2019.jpg)
+[Scarica il volantino](/pdf/Volantino-cineforum-2.pdf)

@@ -19,3 +19,4 @@ chiunque sia interessato potrà prendere parte e osservare sia la cerimonia del 
 
  Accorrete numerosi!!! 
 
+[Scarica il volantino](/pdf/cerimonia_te_08.pdf)

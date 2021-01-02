@@ -64,3 +64,4 @@ con i seguenti orari:
 
 l'ingresso è gratuito 
 
+[Scarica il volantino dell'evento](/pdf/2016_GiapponeInSM.pdf)

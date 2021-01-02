@@ -25,3 +25,4 @@ Segue il programma dell'evento.
 
 - [Sito del festival Giapponese](http://www.festivalgiapponese.it/xviii-festival-giapponese/) 
 - [150° Anniversario Giappone Italia](http://www.it.emb-japan.go.jp/150/index.html)
+- [Scarica il volantino](/pdf/Scandicci_programma_2016.pdf)

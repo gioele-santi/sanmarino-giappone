@@ -2,29 +2,29 @@
 templateKey: 'blog-post'
 title: Giappone dai Samurai a Mazinga
 date: 2014-10-14T12:00:00.000Z
+description: Pubbliciziamo questo evento, sicuramente non proprio vicino, ma estremamente interessante
 featuredpost: false
-
+featuredimage: /img/samurai_mazinga_2014.jpg
 tags:
   - eventi
 ---
 
 
-Pubbliciziamo questo evento, sicuramente non proprio vicino, ma estremamente interessante: 
+![](/img/samurai_mazinga_2014.jpg)
 
- ### Giappone: dai Samurai a Mazinga 
 
- dal 11 Ottobre 2014 al 22 Febbraio 2015 
+Dal 11 Ottobre 2014 al 22 Febbraio 2015 
 
- presso 
+### Giappone: dai Samurai a Mazinga 
 
- Casa dei Carraresi 
+presso 
 
- Via Palestro, 33-35 
+Casa dei Carraresi 
 
- Treviso, 31100 
+Via Palestro, 33-35 
 
- Tel. 0422 513150 
+Treviso, 31100 
 
- Questa la brochure ufficiale: 
+Tel. 0422 513150 
 
- - [Sito ufficiale](http://giapponedaisamuraiamazinga.com) 
+- [Scarica la brochure ufficiale](/pdf/Giappone_samurai_mazinga_2014.pdf)

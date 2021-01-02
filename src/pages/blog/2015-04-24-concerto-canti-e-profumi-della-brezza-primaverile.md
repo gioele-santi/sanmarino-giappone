@@ -25,3 +25,5 @@ Il gruppo si esibirà con un programma di romanze da camera italiane e giappones
 Tutti accompagnati dalla pianista giapponese, Mikiko Hamate. 
 
 La serata sarà presentata dal direttore di Voci nel Montefeltro Ubaldo Fabbri. 
+
+[Scarica il volantino](/pdf/concerto_27_4_15.pdf)

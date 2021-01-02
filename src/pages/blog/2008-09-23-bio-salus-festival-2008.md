@@ -18,3 +18,4 @@ Come ricorderete (se non lo ricordate c'è l'archivio notizie del sito!!) mentre
 
 L'evento, organizzato dall'Istituto di Medicina Naturale in collaborazione con Marco Columbro e il Comune di Urbino, è ad INGRESSO GRATUITO e si svolgerà in gran parte al coperto presso il Collegio Raffaello e la Rampa di Giorgio Martini (quindi sarà da non perdere anche in caso di maltempo!) 
 
+[Scarica il programma](/pdf/Programma_BioSalus_2008.pdf)
