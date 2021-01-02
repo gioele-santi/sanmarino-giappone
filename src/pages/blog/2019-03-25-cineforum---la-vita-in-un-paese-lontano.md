@@ -2,14 +2,17 @@
 templateKey: 'blog-post'
 title: Cineforum - La vita in un paese lontano
 date: 2019-03-25T12:00:00.000Z
+description: "L'Associazione San Marino - Giappone vi invita a partecipare numerosi al Cineforum dal tema 'La vita in un paese lontano'. "
+featuredimage: /img/img_cineforum_2019.jpg
 featuredpost: false
 
 tags:
   - eventi
+  - cinema
 ---
 
 
-L'Associazione San Marino - Giappone vi invita a partecipare numerosi al Cineforum dal tema "La vita in un paese lontano". 
+
 
  Quattro film per osservare la vita e la quotidianità in Giappone e riflettere su come, per quanto diversi, siamo in fondo tutti umani e proviamo gli stessi sentimenti quando messi davanti alle prove della vita. 
 
@@ -51,3 +54,6 @@ Daigo, un musicista ormai disoccupato, decide di lasciare Tokyo e di tornare al 
 
 Sentaro gestisce un negozio di dolci tipici e odia il suo lavoro. Un giorno la signora Toku si offre come aiutante. La vecchina non solo lo aiuterà a risollevare gli affari del negozio ma anche ad affrontare la vita con ritrovato entusiasmo. 
 
+<br/><br/>
+
+![](/img/img_cineforum_2019.jpg)
