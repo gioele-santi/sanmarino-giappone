@@ -36,8 +36,8 @@ export default class BlogList extends React.Component {
                       <div className="is-parent column is-6" key={post.id}>
                         <article
                           className={`blog-list-item tile is-child box notification 
-                          ${(index % 2 == 0) ? 'even-blog-post' : 'odd-blog-post'} 
-                          ${ (index == 0) || (index == 3) || (index == 4) ? 'accent-blog-post' : '' }
+                          ${(index % 2 === 0) ? 'even-blog-post' : 'odd-blog-post'} 
+                          ${ (index === 0) || (index === 3) || (index === 4) ? 'accent-blog-post' : '' }
                           `}
                         >
                           <header>
