@@ -3,13 +3,13 @@ templateKey: 'blog-post'
 title: Poesie dell'Antica Nobiltà Giapponese
 date: 2016-08-25T12:00:00.000Z
 featuredpost: false
-featuredimage: /img/2016-08-25-poesie-dell'antica-nobiltà-giapponese.jpg
+featuredimage: /img/sanmarino-jinja.jpg
 tags:
   - eventi
 ---
 
 
-![](/img/2016-08-25-poesie-dell'antica-nobiltà-giapponese.jpg)
+![](/img/sanmarino-jinja.jpg)
 
 Dopo averci allietato Mercoledì sera con il concerto Il Vento del Giappone, gli amici dell'Associazione Voci nel Montefeltro assieme a The Summer Program in Italy- Giappone organizzano il concerto in prima assoluta 
 

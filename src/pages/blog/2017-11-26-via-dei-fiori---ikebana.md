@@ -3,12 +3,13 @@ templateKey: 'blog-post'
 title: Via dei fiori - Ikebana
 date: 2017-11-26T12:00:00.000Z
 featuredpost: false
-
+featuredimage: /img/2017_ikebana.jpg
 tags:
   - eventi
   - ikebana
 ---
 
+![](/img/2017_ikebana.jpg)
 
 Il **29 Novembre 2017**  l'Ambasciata del Giappone in Italia con la collaborazione del Consolato Generale Onorario del Giappone presso la Repubblica di San Marino e dell'Associazione San Marino - Giappone 
 
