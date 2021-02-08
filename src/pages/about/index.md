@@ -25,7 +25,7 @@ In tale spirito si ritengono essenziali per lo sviluppo dell'amicizia e della co
 
 #### Art. 4
 
-Possono essere soci dell'Associazione persone fisiche e persone giuridiche, cittadini sammerinesi o residenti a San Marino.
+Possono essere soci dell'Associazione persone fisiche e persone giuridiche, cittadini sammarinesi o residenti a San Marino.
 
 L'ammissione all'Associazione è subordinata all'accettazione del presente Statuto ed è deliberata dal Comitato Direttivo.
 
