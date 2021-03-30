@@ -18,7 +18,7 @@ export default class BlogList extends React.Component {
         <div
           className="full-width-image-container margin-top-0 header-image"
           style={{
-            backgroundImage: `url('/img/pexels-356269.jpg')`,
+            backgroundImage: `url('/img/acero-fuji.jpg')`,
           }}
         >
           <h1

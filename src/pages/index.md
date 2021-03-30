@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Associazione San Marino - Giappone
-image: /img/acero-fuji.jpg
+image: /img/pexels-356269.jpg
 heading: Associazione San Marino - Giappone
 subheading: サンマリノ・日本　友好協会
 mainpitch:
