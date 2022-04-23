@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="Associazione San Marino Giapone"
             style={{ width: '14em', height: '6em' }}
           />
         </div>
@@ -106,6 +106,10 @@ const Footer = class extends React.Component {
               </div>
             </div>
           </div>
+        </div>
+        <div className="content has-text-centered has-background-black has-text-white-ter has-text-weight-light">
+          <p className='is-size-7'>Associazione San Marino - Giappone &#8226; COE SM24576 &#8226; Iscritta al Registro delle Associazioni al n°11</p>
+          <p className='is-size-7'>c/o Via Giosue' Carducci 13, 47895  &#8226; Domagnano (RSM)</p>
         </div>
       </footer>
     )
