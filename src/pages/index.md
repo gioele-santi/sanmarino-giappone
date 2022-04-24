@@ -7,7 +7,7 @@ subheading: サンマリノ・日本　友好協会
 mainpitch:
   title: Presentazione
   description: >
-    L’Associazione San Marino-Giappone è un'associazione legalmente riconosciuta e regolarmente iscritta al Registro delle Associzioni al n° 11.
+    L’Associazione San Marino-Giappone è un'associazione legalmente riconosciuta e regolarmente iscritta al Registro delle Associazioni al n° 11.
     
     L'Associazione è rivolta a beneficio di chiunque mostri interesse per il Sol Levante,  per approfondirne i vari aspetti sociali, culturali  e per far conoscere la realtà sammarinese al popolo nipponico.
 description: 
