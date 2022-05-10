@@ -2,7 +2,7 @@
 templateKey: 'blog-post'
 title: SENBAZURU - Mille Gru per la pace
 date: 2022-04-25T12:00:00.000Z
-description: "Un evento all'insegna della convivialità e la pace"
+description: "Un evento all'insegna della convivialità e della pace"
 featuredimage: /img/2022_senbazuru.JPG
 featuredpost: false
 
@@ -20,11 +20,13 @@ In Giappone è normale trovarne numerose presso i monumenti che commemorano la f
 
 L’attualità purtroppo ci ricorda che le guerre non sono un ricordo del passato, ma un pericolo sempre presente e solo attraverso la sensibilizzazione e la cooperazione si potrà sperare un giorno di vivere in un mondo senza guerre.
 
-Per questo l’**Associazione San Marino - Giappone**, in collaborazione con **Ludoteca Pologioco**, **Mattoncini Famosi** ed il **Patrocinio del Consolato Onorario del Giappone presso la Repubblica di San Marino**  vuole organizzare una giornata all’insegna della pace per i bambini e le famiglie, con lo scopo di creare quante più gru di origami possibile e comporre insieme una ghirlanda di origami come messaggio di pace.
+Per questo l’**Associazione San Marino - Giappone**, in collaborazione con **Ludoteca Pologioco**, **Mattoncini Famosi**, la **Giunta di Castello di Serravalle** ed il **Patrocinio del Consolato Onorario del Giappone presso la Repubblica di San Marino**  vuole organizzare una giornata all’insegna della pace per i bambini e le famiglie, con lo scopo di creare quante più gru di origami possibile e comporre insieme una ghirlanda di origami come messaggio di pace.
 
 Un gesto dal valore altamente **simbolico**, ma anche **concreto** proprio per il suo aspetto conviviale e collaborativo: lavorando e giocando insieme possiamo mettere da parte differenze e conflitti e raggiungere piccoli e grandi obiettivi.
 
 Ci vediamo **Sabato 21 Maggio dalle ore 15** presso Ludoteca Pologioco **Via Nitella 110 - 47892 Acquaviva**
+
+e **Sabato 28 Maggio dalle ore 15** presso il Parco Ausa a Dogana - Serravalle
 
 Vi invitiamo a partecipare numerosi!
 
