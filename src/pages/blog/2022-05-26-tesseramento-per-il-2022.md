@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Tesseramento per il 2022
 date: 2022-05-26T20:51:06.391Z
 description: Come contribuire all'Associazione
-featuredpost: true
+featuredpost: false
 featuredimage: /img/patch.png
 tags:
   - associazione
