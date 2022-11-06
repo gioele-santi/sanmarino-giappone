@@ -18,5 +18,5 @@ description:
     Gli stessi Cesare Antonio Gasperoni e Roberto Bucci furono fra i soci fondatori dell’Associazione.
 
   L’impegno dell’Associazione è, da più di 30 anni, organizzare iniziative di stampo
-  artistico, culturale o di attualità  per promomuovere la conoscenza reciproca fra i due popoli.
+  artistico, culturale o di attualità  per promuovere la conoscenza reciproca fra i due popoli.
 ---
