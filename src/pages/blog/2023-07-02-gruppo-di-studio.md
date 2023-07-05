@@ -27,7 +27,12 @@ Può partecipare chiunque:
 
 Noi ci saremo, porteremo libri, materiale e idee, ma siete tutti invitati a portare le vostre domande, la vostra curiosità, le vostre idee...
 
-Cogliamo l'occasione per ringraziare qui la Giunta di Serravalle, il Centro Sociale di Dogana e Bibliobaita che ci supportano nell'organizzazione.
+Cogliamo l'occasione per ringraziare qui 
+- **[Giunta di Castello di Serravalle](https://www.castello.serravalle.sm/)**
+- **Centro Sociale di Dogana**
+- **Bibliobaita**
+
+che ci supportano nell'organizzazione.
 
 
 
