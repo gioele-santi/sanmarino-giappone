@@ -28,11 +28,15 @@ intro:
 
 Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe partecipare al gruppo di studio.
 
+- [Breve sguardo sul Giappone - Soluzione del quiz](pdf/benkyokai/soluzione_quiz.pdf)
+
 - [Schema hiragana](/pdf/benkyokai/hiragana.pdf) (*)
 
 - [Schema katakana](/pdf/benkyokai/katakana.pdf) (*)
 
 - [Cruciverba hiragana](pdf/benkyokai/cruciverba_hiragana_1.pdf) 
+
+- [Scheda saluti](pdf/benkyokai/saluti.pdf)
 
 ## Link utili
 
