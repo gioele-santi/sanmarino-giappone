@@ -40,6 +40,8 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 - [Membri della famiglia](pdf/benkyokai/2023_famiglia.pdf)
 
+- [Origami](pdf/benkyokai/2023_origami.pdf)
+
 ### Scrittura
 
 *Un approfondimento sui sistemi di scrittura indispensabili per lo studio della lingua*
@@ -53,6 +55,8 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 - [Kanji radicali](pdf/benkyokai/2023_radicali_gallarotti.pdf)
 
 ### Cibo
+
+– [Presentazione sul cibo](pdf/benkyokai/2023_suki.pdf)
 
 - [Elenco dei cibi](pdf/benkyokai/2023_cibi.pdf)
 
