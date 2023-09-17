@@ -56,7 +56,7 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 ### Cibo
 
-– [Presentazione sul cibo](pdf/benkyokai/2023_suki.pdf)
+- [Presentazione sul cibo](pdf/benkyokai/2023_suki.pdf)
 
 - [Elenco dei cibi](pdf/benkyokai/2023_cibi.pdf)
 
@@ -66,7 +66,7 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 *Il materiale utilizzato per l'analisi delle canzoni*
 
-- Santa Lucia, *Teodoro Cottrau* [testo giapponese](pdf/benkyokai/2023_santa_lucia.pdf) - [canzone](https://youtu.be/tuN-K4KbfO8?si=9BkEgM7kwN3DiitJ&t=692)
+- Santa Lucia, *Teodoro Cottrau* - [testo giapponese](pdf/benkyokai/2023_santa_lucia.pdf) - [canzone](https://youtu.be/tuN-K4KbfO8?si=9BkEgM7kwN3DiitJ&t=692)
 
 - Sakura sakura, *tradizionale* - [testo](pdf/benkyokai/2023_sakura_sakura.pdf) - [canzone](https://www.youtube.com/watch?v=0Hvo4Db3NT8)
 
