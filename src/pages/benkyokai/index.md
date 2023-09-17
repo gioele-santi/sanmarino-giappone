@@ -62,17 +62,17 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 *Il materiale utilizzato per l'analisi delle canzoni*
 
-- Santa Lucia, *Teodoro Cottrau* [testo giapponese](pdf/benkyokai/2023_santa_lucia.pdf) [canzone](https://youtu.be/tuN-K4KbfO8?si=9BkEgM7kwN3DiitJ&t=692)
+- Santa Lucia, *Teodoro Cottrau* [testo giapponese](pdf/benkyokai/2023_santa_lucia.pdf) - [canzone](https://youtu.be/tuN-K4KbfO8?si=9BkEgM7kwN3DiitJ&t=692)
 
-- Sakura sakura, *tradizionale* - [testo](pdf/benkyokai/2023_sakura_sakura.pdf) [canzone](https://www.youtube.com/watch?v=0Hvo4Db3NT8)
+- Sakura sakura, *tradizionale* - [testo](pdf/benkyokai/2023_sakura_sakura.pdf) - [canzone](https://www.youtube.com/watch?v=0Hvo4Db3NT8)
 
-- Tsubasa wo kudasai, *Akai Tori* - testo [canzone](https://www.youtube.com/watch?v=Pdyodbm1h-A)
+- Tsubasa wo kudasai, *Akai Tori* - testo - [canzone](https://www.youtube.com/watch?v=Pdyodbm1h-A)
 
-- Yume no naka he, *Yosui Inoue* - testo [canzone](https://www.youtube.com/watch?v=Z1G6vOrCHlY)
+- Yume no naka he, *Yosui Inoue* - testo - [canzone](https://www.youtube.com/watch?v=Z1G6vOrCHlY)
 
-- Et cetera, *One Ok Rock* - testo [canzone](https://www.youtube.com/watch?v=8Z_B3TKIDRY)
+- Et cetera, *One Ok Rock* - testo - [canzone](https://www.youtube.com/watch?v=8Z_B3TKIDRY)
 
-- Solanin, *Asian Kung Fu Generation* - [testo](pdf/benkyokai/2023_solanin.pdf) [canzone](https://www.youtube.com/watch?v=xZD1B1TskXs)
+- Solanin, *Asian Kung Fu Generation* - [testo](pdf/benkyokai/2023_solanin.pdf) - [canzone](https://www.youtube.com/watch?v=xZD1B1TskXs)
 
 ## Link utili
 
