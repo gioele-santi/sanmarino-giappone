@@ -28,7 +28,21 @@ intro:
 
 Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe partecipare al gruppo di studio.
 
+### Cultura generale
+
 - [Breve sguardo sul Giappone - Soluzione del quiz](pdf/benkyokai/soluzione_quiz.pdf)
+
+- [Scheda saluti](pdf/benkyokai/saluti.pdf)
+
+- [Numeri]()
+
+- [Colori](pdf/benkyokai/2023_colori.pdf)
+
+- [Membri della famiglia](pdf/benkyokai/2023_famiglia.pdf)
+
+### Scrittura
+
+*Un approfondimento sui sistemi di scrittura indispensabili per lo studio della lingua*
 
 - [Schema hiragana](/pdf/benkyokai/hiragana.pdf) (*)
 
@@ -36,7 +50,29 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 - [Cruciverba hiragana](pdf/benkyokai/cruciverba_hiragana_1.pdf) 
 
-- [Scheda saluti](pdf/benkyokai/saluti.pdf)
+- [Kanji radicali](pdf/benkyokai/2023_radicali_gallarotti.pdf)
+
+### Cibo
+
+- [Elenco dei cibi](pdf/benkyokai/2023_cibi.pdf)
+
+- [Cruciverba sui cibi](pdf/benkyokai/2023_cruciverba_cibo.pdf)
+
+### Musica
+
+*Il materiale utilizzato per l'analisi delle canzoni*
+
+- Santa Lucia, *Teodoro Cottrau* [testo giapponese](pdf/benkyokai/2023_santa_lucia.pdf) [canzone](https://youtu.be/tuN-K4KbfO8?si=9BkEgM7kwN3DiitJ&t=692)
+
+- Sakura sakura, *tradizionale* - [testo](pdf/benkyokai/2023_sakura_sakura.pdf) [canzone](https://www.youtube.com/watch?v=0Hvo4Db3NT8)
+
+- Tsubasa wo kudasai, *Akai Tori* - testo [canzone](https://www.youtube.com/watch?v=Pdyodbm1h-A)
+
+- Yume no naka he, *Yosui Inoue* - testo [canzone](https://www.youtube.com/watch?v=Z1G6vOrCHlY)
+
+- Et cetera, *One Ok Rock* - testo [canzone](https://www.youtube.com/watch?v=8Z_B3TKIDRY)
+
+- Solanin, *Asian Kung Fu Generation* - [testo](pdf/benkyokai/2023_solanin.pdf) [canzone](https://www.youtube.com/watch?v=xZD1B1TskXs)
 
 ## Link utili
 
