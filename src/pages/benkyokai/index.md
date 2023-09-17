@@ -34,7 +34,7 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 - [Scheda saluti](pdf/benkyokai/saluti.pdf)
 
-- [Numeri]()
+- [Numeri](pdf/benkyokai/2023_numeri.pdf)
 
 - [Colori](pdf/benkyokai/2023_colori.pdf)
 
