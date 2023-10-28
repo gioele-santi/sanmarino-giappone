@@ -53,6 +53,40 @@ Qui di seguito una serie di link e materiali utili per chi partecipa o vorrebbe 
 
 - [Kanji radicali](pdf/benkyokai/2023_radicali_gallarotti.pdf)
 
+### Lettura
+
+*La selezioni di letture usate nel gruppo di studio <br> fonte [Tadoku](https://tadoku.org/japanese/en/free-books-en/)*
+
+- [雨・あめ](https://tadoku.org/japanese/book/6301/)
+
+- [いました！](https://tadoku.org/japanese/book/6469/)
+
+- [すみません](https://tadoku.org/japanese/book/5509/)
+
+- [あんこちゃん ～季節のお菓子～](https://tadoku.org/japanese/book/6973/)
+
+- [広島・宮島に行きましょう](https://tadoku.org/japanese/book/7595/)
+
+- [デカりんご](https://tadoku.org/japanese/book/7787/)
+
+- [かぼちゃん日本の秋へ](https://tadoku.org/japanese/book/4159/)
+
+- [泣く女](https://tadoku.org/japanese/book/38370/)
+
+- [フェリパ](https://tadoku.org/japanese/book/5594/)
+
+*fonte [KCよむよむ](https://www.jpf.go.jp/j/kansai/clip/yomyom/)*
+
+- [お化け](https://www.jpf.go.jp/j/kansai/clip/images/page/yomyom/007_obake.pdf)
+
+- [お菊さん](https://www.jpf.go.jp/j/kansai/clip/images/page/yomyom/013_okikusan.pdf)
+
+- [清姫](https://www.jpf.go.jp/j/kansai/clip/images/page/yomyom/014_kiyohime.pdf)
+
+*altre letture*
+
+- [むじな　ハーン](pdf/benkyokai/mujina_han.pdf) - [video](https://www.youtube.com/watch?v=f_HazozEvxw)
+
 ### Cibo
 
 - [Presentazione sul cibo](pdf/benkyokai/2023_suki.pdf)
