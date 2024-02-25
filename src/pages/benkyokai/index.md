@@ -14,7 +14,7 @@ intro:
         È un'iniziativa gratuita senza obbligo di frequenza o iscrizione. 
     - image: /img/irasutoya/calender_man.png
       text: >
-        Da luglio a settembre  ci incontriamo ogni sabato 10:00 - 12:00 per dedicarci allo studio del giapponese
+        Da Febbraio a Maggio ci incontriamo ogni sabato 10:00 - 12:00 per dedicarci allo studio del giapponese
     - image: /img/irasutoya/books.png
       text: >
         Noi soci saremo presenti con materiale, libri e idee. Se vuoi, porta anche il tuo manga preferito! Il giapponese è ovunque!
