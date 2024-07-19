@@ -14,13 +14,13 @@ intro:
         È un'iniziativa gratuita senza obbligo di frequenza o iscrizione. 
     - image: /img/irasutoya/calender_man.png
       text: >
-        Da Febbraio a Maggio ci incontriamo ogni sabato 10:00 - 12:00 per dedicarci allo studio del giapponese
+        Da Febbraio a Maggio ci incontriamo ogni venerdì 17:30 - 19:30 per dedicarci allo studio del giapponese
     - image: /img/irasutoya/books.png
       text: >
         Noi soci saremo presenti con materiale, libri e idee. Se vuoi, porta anche il tuo manga preferito! Il giapponese è ovunque!
     - image: /img/irasutoya/poket_park.png
       text: >
-        Gli incontri si svolgono presso la Casa del Castello di Serravalle
+        Gli incontri si svolgono presso la Bibliobaita del Parco Laiala a Serravalle. In caso di maltempo presso la Casa del Castello di Serravalle
 ---
 
 ## Materiale utile
