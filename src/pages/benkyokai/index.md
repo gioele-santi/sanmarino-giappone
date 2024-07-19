@@ -11,10 +11,10 @@ intro:
       text: >-
         È un corso? 
         No, non ci sono lezioni da seguire e non è a numero chiuso.
-        È un'iniziativa gratuita senza obbligo di frequenza o iscrizione. 
+        È un'iniziativa gratuita senza obbligo di frequenza o iscrizione e puoi cominciare in qualunque momento!
     - image: /img/irasutoya/calender_man.png
       text: >
-        Da Febbraio a Maggio ci incontriamo ogni venerdì 17:30 - 19:30 per dedicarci allo studio del giapponese
+        Da Maggio a Settembre ci incontriamo ogni venerdì 17:30 - 19:30 per dedicarci allo studio del giapponese
     - image: /img/irasutoya/books.png
       text: >
         Noi soci saremo presenti con materiale, libri e idee. Se vuoi, porta anche il tuo manga preferito! Il giapponese è ovunque!
